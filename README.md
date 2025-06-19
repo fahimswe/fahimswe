@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Amiri&weight=600&size=28&pause=1000&center=true&width=435&lines=بِسْمِ+ٱللَّٰهِ+ٱلرَّحْمَٰنِ+ٱلرَّحِيمِ" alt="Bismillah typing animation" />
-</p>
+<p align="center"><i>Beginning everything in the name of Allah, the Most Gracious, the Most Merciful.</i></p>
 
 <h1 align="center">Hi there 👋, I'm Fahim Ahmed</h1>
 <h3 align="center">🎓 Running student of Software Engineering  | 💻 Java & Web Dev Enthusiast</h3>
