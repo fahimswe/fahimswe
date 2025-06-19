@@ -12,7 +12,7 @@
 - 🔭 Working on Java-based projects (OOP, DBMS, Result Processing System)
 - 💡 Exploring Web Technologies, REST APIs, and MySQL
 - 💬 Ask me about **OOP, SQL queries, and Java debugging**
-- 📫 Reach me at: `fahimswe@gmail.com`
+- 📫 Reach me at: `fahimahmed22@iut-dhaka.edu`
 - 🌐 Visit my portfolio (Coming Soon)
 
 ---
@@ -39,8 +39,3 @@
 
 ---
 
-### 📬 Let's Connect
-<p>
-  <a href="mailto:fahimswe@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/fahimswe/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
